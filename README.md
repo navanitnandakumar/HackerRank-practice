@@ -1,5 +1,7 @@
 # 💻 HackerRank-practice 💻
 
+Practice programs that I did in https://www.hackerrank.com/
+
 # Python programs
   
   1.Say "Hello, World!" With Python
