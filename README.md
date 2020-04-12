@@ -13,5 +13,7 @@ This repo consists of all the practice programs that I did in https://www.hacker
   4.Python: Division
   
   5.Loops
+  
+  6.Write a function
 
 # C,C++ programs
