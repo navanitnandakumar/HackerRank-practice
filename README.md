@@ -11,5 +11,7 @@ This repo consists of all the practice programs that I did in https://www.hacker
   3.Arithmetic Operators
   
   4.Python: Division
+  
+  5.Loops
 
 # C,C++ programs
