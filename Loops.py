@@ -4,3 +4,4 @@ if __name__ == '__main__':
     while i<n :
         print(i*i)
         i+=1
+        
