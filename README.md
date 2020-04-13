@@ -15,5 +15,7 @@ This repo consists of all the practice programs that I did in https://www.hacker
   5.Loops
   
   6.Write a function
+  
+  7.Print function
 
 # C,C++ programs
