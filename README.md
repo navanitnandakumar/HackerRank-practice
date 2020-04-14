@@ -21,3 +21,5 @@ This repo consists of all the practice programs that I did in https://www.hacker
 # C programs
 
   1."Hello World!" in C
+  
+  2.Playing with characters
