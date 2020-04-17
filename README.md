@@ -37,5 +37,7 @@ This repo consists of all the practice programs that I did in https://www.hacker
   3.Basic data types
   
   4.Conditional statements
+  
+  5.For loop
 
 
