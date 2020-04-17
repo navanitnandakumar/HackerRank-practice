@@ -19,6 +19,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   7.Print function
   
   8.List Comprehensions
+  
+  9.Find the runner up score
 
 # C programs
 
