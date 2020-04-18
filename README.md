@@ -23,6 +23,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   9.Find the runner up score
   
   10.Nested lists
+  
+  11.Finding the percentage
 
 # C programs
 
