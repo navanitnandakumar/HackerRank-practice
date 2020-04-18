@@ -21,6 +21,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   8.List Comprehensions
   
   9.Find the runner up score
+  
+  10.Nested lists
 
 # C programs
 
