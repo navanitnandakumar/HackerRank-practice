@@ -25,6 +25,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   10.Nested lists
   
   11.Finding the percentage
+  
+  12.Lists
 
 # C programs
 
