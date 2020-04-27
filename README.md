@@ -38,6 +38,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   
   4.Functions in C
   
+  5.Pointers in C
+  
 # C++ programs
 
   1.Say "Hello, World!" With C++
