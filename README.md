@@ -27,6 +27,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   11.Finding the percentage
   
   12.Lists
+  
+  13.Tuples
 
 # C programs
 
