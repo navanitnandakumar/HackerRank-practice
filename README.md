@@ -1,7 +1,5 @@
 # HackerRank-practice
 
-![](https://aommaster.com/blog/wp-content/uploads/2014/07/HackerRankLogo.png)
-
 This repo consists of all the practice programs that I did in https://www.hackerrank.com/
 
 # Python programs
