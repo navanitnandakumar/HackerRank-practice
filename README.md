@@ -41,6 +41,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   18.Find a string
   
   19.String validators
+  
+  20.Text alignment
 
 # C programs
 
