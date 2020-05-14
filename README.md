@@ -2,7 +2,7 @@
 
 This repo consists of all the practice programs that I did in https://www.hackerrank.com/
 
-# Python programs
+## Python programs
   
   1.Say "Hello, World!" With Python
   
@@ -44,7 +44,7 @@ This repo consists of all the practice programs that I did in https://www.hacker
   
   20.Text alignment
 
-# C programs
+## C programs
 
   1."Hello World!" in C
   
@@ -60,7 +60,7 @@ This repo consists of all the practice programs that I did in https://www.hacker
   
   7.For loop in C 
   
-# C++ programs
+## C++ programs
 
   1.Say "Hello, World!" With C++
   
