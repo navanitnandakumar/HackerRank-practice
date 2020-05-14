@@ -58,6 +58,8 @@ This repo consists of all the practice programs that I did in https://www.hacker
   
   6.Conditional statements in C
   
+  7.For loop in C 
+  
 # C++ programs
 
   1.Say "Hello, World!" With C++
