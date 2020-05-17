@@ -43,6 +43,8 @@
   19. String validators
   
   20. Text alignment
+  
+  21. Text wrap
 
 ## C programs
 
