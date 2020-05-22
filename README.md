@@ -46,7 +46,7 @@
   
   21. Text wrap
 
-## C programs
+### C programs
 
   1. "Hello World!" in C
   
@@ -62,7 +62,7 @@
   
   7. For loop in C 
   
-## C++ programs
+### C++ programs
 
   1. Say "Hello, World!" With C++
   
