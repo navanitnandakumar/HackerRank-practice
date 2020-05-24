@@ -64,6 +64,8 @@
   
   7. For loop in C 
   
+  8. Sum of digits of a five digit number
+  
 ## C++ programs
 
   1. Say "Hello, World!" With C++
