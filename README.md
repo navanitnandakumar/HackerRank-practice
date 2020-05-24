@@ -66,6 +66,8 @@
   
   8. Sum of digits of a five digit number
   
+  9. Bitwise operator
+  
 ## C++ programs
 
   1. Say "Hello, World!" With C++
