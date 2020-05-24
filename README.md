@@ -66,7 +66,7 @@
   
   8. Sum of digits of a five digit number
   
-  9. Bitwise operator
+  9. Bitwise operators
   
 ## C++ programs
 
