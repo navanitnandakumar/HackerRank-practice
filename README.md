@@ -80,6 +80,6 @@
   
   5. For loop
   
- 
+  6. Functions
 
 
