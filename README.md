@@ -84,4 +84,4 @@
 
   7. Pointer
   
-  8. Arrays intro
+  8. Arrays introduction
