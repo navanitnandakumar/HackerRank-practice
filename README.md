@@ -82,4 +82,4 @@
   
   6. Functions
 
-  7. Point
+  7. Pointe
