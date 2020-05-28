@@ -84,4 +84,4 @@
 
   7. Pointer
   
-  8. Array
+  8. Arrays
