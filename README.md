@@ -86,4 +86,6 @@
   
   8. Arrays introduction
   
-## Algor
+## Algorithms
+
+  1. 
