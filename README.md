@@ -47,8 +47,6 @@
   21. Text wrap
   
   22. Designer door mat
-  
-  2
 
 ## C programs
 
