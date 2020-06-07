@@ -68,7 +68,7 @@
   
   9. Bitwise operators
   
-  10. Printing
+  10. Printing pattern using loops
   
 ## C++ programs
 
