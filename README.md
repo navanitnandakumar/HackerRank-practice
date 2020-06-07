@@ -86,7 +86,7 @@
   
   8. Arrays introduction
   
-  9. Variable sized
+  9. Variable sized arrays
   
 ## Algorithms
 
