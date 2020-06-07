@@ -86,6 +86,8 @@
   
   8. Arrays introduction
   
+  9.
+  
 ## Algorithms
 
   1. Solve me first
