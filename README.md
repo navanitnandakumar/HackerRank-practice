@@ -68,6 +68,8 @@
   
   9. Bitwise operators
   
+  10. Printing
+  
 ## C++ programs
 
   1. Say "Hello, World!" With C++
