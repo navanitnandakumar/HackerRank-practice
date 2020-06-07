@@ -86,7 +86,7 @@
   
   8. Arrays introduction
   
-  9.
+  9. Variable
   
 ## Algorithms
 
