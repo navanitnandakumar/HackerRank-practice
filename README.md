@@ -49,6 +49,8 @@
   22. Designer door mat
   
   23. String formatting
+  
+  24. Alphabet rangoli
 
 ## C programs
 
