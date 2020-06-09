@@ -47,6 +47,8 @@
   21. Text wrap
   
   22. Designer door mat
+  
+  23. String formatting
 
 ## C programs
 
