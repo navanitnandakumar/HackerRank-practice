@@ -96,4 +96,4 @@
   
 ## Algorithms
 
-  1. Sol
+  1. Solv
