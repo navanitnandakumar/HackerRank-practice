@@ -96,4 +96,4 @@
   
 ## Algorithms
 
-  1. Solve
+  1. Solve me first
