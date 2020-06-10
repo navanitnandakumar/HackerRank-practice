@@ -96,4 +96,4 @@
   
 ## Algorithms
 
-  1. S
+  1. So
