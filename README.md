@@ -74,7 +74,7 @@
   
   10. Printing pattern using loops
   
-  11. 1D arrays in
+  11. 1D arrays in C
   
 ## C++ programs
 
