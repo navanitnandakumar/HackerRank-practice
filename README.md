@@ -74,7 +74,7 @@
   
   10. Printing pattern using loops
   
-  11. 
+  11. 1D
   
 ## C++ programs
 
