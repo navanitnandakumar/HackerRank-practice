@@ -83,18 +83,7 @@
   2. Input and output
   
   3. Basic data types
-  
-  4. Conditional statements
-  
-  5. For loop
-  
-  6. Functions
 
-  7. Pointer
-  
-  8. Arrays introduction
-  
-  9. Variable sized arrays
   
 ## Algorithms
 
