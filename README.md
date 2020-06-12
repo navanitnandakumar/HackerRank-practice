@@ -62,19 +62,7 @@
   
   4. Functions in C
   
-  5. Pointers in C
-  
-  6. Conditional statements in C
-  
-  7. For loop in C 
-  
-  8. Sum of digits of a five digit number
-  
-  9. Bitwise operators
-  
-  10. Printing pattern using loops
-  
-  11. 1D arrays in C
+
   
 ## C++ programs
 
