@@ -76,6 +76,8 @@
   
   11. 1D arrays in C
   
+  12. Array reversal
+  
 ## C++ programs
 
   1. Say "Hello, World!" With C++
