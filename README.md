@@ -78,7 +78,7 @@
   
   12. Array reversal
   
-  13. Print
+  13. Printing tokens
   
 ## C++ programs
 
