@@ -78,7 +78,7 @@
   
   12. Array reversal
   
-  13. Pr
+  13. Print
   
 ## C++ programs
 
