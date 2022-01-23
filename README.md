@@ -52,6 +52,8 @@
   
   24. Alphabet rangoli
 
+  25. Capitalize!
+
 ## C programs
 
   1. "Hello World!" in C
